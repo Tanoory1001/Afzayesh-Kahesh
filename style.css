@@ -1,0 +1,25 @@
+body{
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.wrap{
+    text-align: center;
+    padding: 10px;
+    background-color: rgb(20,161,216);
+}
+.wrap h3{
+    font-family: Arial, Helvetica, sans-serif;
+    color: wheat;
+}
+#plus{
+    color: green;
+}
+#minus{
+    color: red;
+}
+#reset{
+    color: blue;
+}
